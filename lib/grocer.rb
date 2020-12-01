@@ -7,8 +7,9 @@ counter = 0
 while counter < collection.length
 if collection[counter][:item] == name
   return collection[counter]
-  counter += 1
+  
 end
+
 end
 nil
 end
