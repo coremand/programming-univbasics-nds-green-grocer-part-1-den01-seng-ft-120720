@@ -10,7 +10,6 @@ if collection[counter][:item] == name
 end
  counter += 1
 end
-nil
 end
 
 def consolidate_cart(cart)
